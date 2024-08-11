@@ -1,0 +1,153 @@
+#header {
+  width: 100%;
+  height: 107px;
+  background-color:rgb(255, 255, 255);
+  font-family:  "Noto Sans", sans-serif
+}
+.topheader {
+  background-color:rgb(51, 51, 51);
+  width: 100%;
+  height: 41px;
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+
+}
+.top-head-inside-div {
+  width: 100%;
+  height: 41px;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+}
+.left-div {
+  background-color:transparent;
+  width: 200px;
+  height: 41px; 
+  display: flex;
+  align-items: center;
+}
+.menu-icon {
+  width: 18px;
+  height: 18px;
+}
+.acer-name {
+  font-size: 14px;
+  font-weight: 550;
+  line-height: 21px;
+  margin-left: 8px;
+  color: #fff;
+  cursor: pointer;
+}
+.right-div {
+  width: 281px;
+  height: 41px;
+  background-color:transparent;
+  display: flex;
+  justify-content: end;
+
+}
+.right-inside-box{
+  width: 100px;
+  height: 41px;
+  background-color:transparent;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-right: 5px;
+
+}
+.location-icon {
+  width: 21px;
+  height: 21px;
+  cursor: pointer;
+  
+}
+.icons-div-1 {
+  width: 25px;
+  height: 25px;
+  background-color:transparent;
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icons-div-2 {
+  width: 25px;
+  height: 25px;
+  padding-right: 10px;
+  background-color:transparent ;
+  display: flex;
+  align-items: center;
+  
+}
+.bottom-header {
+  width: 100%;
+  height: 66px;
+  background-color: rgb(255, 255, 255);
+  padding: 0px 24px;
+  padding-right: 12px;
+}
+.bootom-head-inside-div {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.acer-logo {
+  width: 83px;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.logo-img {
+  width: 83px;
+  height: 20px;
+}
+.bottom-head-inside-contents {
+  width: 76.6%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  margin-left: 46px;
+  display: flex;
+  flex-direction: row;
+  padding-left:82px;
+  padding-right: 82px; 
+}
+.bottom-head-inside-contents-container {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  display: flex;
+}
+.bottom-head-flex-box {
+  width: 500px;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  padding-left:24px;
+  padding-right: 24px;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+  cursor: pointer;  
+  transition-duration:0.4s ;
+}
+.bottom-head-flex-box:hover {
+  background-color: rgb(233, 233, 233);
+}
+.flex-inside-text-last-search {
+  width: 80px;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  margin-left: 91px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.flex-inside-text-last-search img{
+  width: 20px;
+  height: 25px;
+  
+}
